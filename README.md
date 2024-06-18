@@ -6,5 +6,8 @@ The plugin will enable the Registration form for logged-in users  and pre-fills 
 ## UM Settings
 None
 
+## Reference
+1. Email Admin Registration - https://github.com/MissVeronica/um-email-admin-registration
+
 ## Installation
 Download the zip file and install as a WP Plugin, activate the plugin.
