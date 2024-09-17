@@ -10,4 +10,4 @@ None
 1. Email Admin Registration - https://github.com/MissVeronica/um-email-admin-registration
 
 ## Installation
-Download the zip file and install as a WP Plugin, activate the plugin.
+Download the zip file (Code -> Download ZIP) and install as a WP Plugin, activate the plugin.
